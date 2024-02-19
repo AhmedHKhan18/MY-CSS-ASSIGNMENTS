@@ -1,0 +1,119 @@
+.heading {
+    color: white;
+    background-color: rgb(0,141,56);
+    padding: 10px;
+    font-family: sans-serif;
+    display: flex;
+    justify-content: space-between;
+    font-weight: bold;
+}
+* {
+    margin: 0;
+}
+.row {
+    border-spacing: 20px;
+    padding-right: 50px;
+}
+h2 {
+    padding-left: 130px;
+    padding-top: 15px;
+}
+h1 {
+    font-family: sans-serif;
+    font-size: 50px;
+    margin-left: 200px;
+    margin-top: 40px;
+    color: rgb(0,174,71);
+}
+hr {
+    border: 3px solid rgb(132,209,166);
+    width: 980px;
+    margin-left: 200px;
+}
+.alldivs {
+    background-color: rgb(0,159,50);
+    display: flex;
+    margin-left: 230px;
+    margin-right: 215px;
+    height: 350px;
+    margin-top: 50px;
+}
+img { 
+    height: 150px;
+    margin-top: 60px;
+    margin-right: 25px;
+    padding-left: 30px;
+}
+#divone {
+    margin-left: 250px;
+    margin-right: 60px;
+    background-color: rgb(0,159,50);
+    width: 225px;
+    margin-top: 80px;
+    text-align: center;
+    height: 350px;
+} 
+#divtwo {
+    background-color: rgb(0,191,84);
+    margin-left: 475px;
+    width: 225px;
+    margin-top: -350px;
+    text-align: center;
+    height: 350px;
+}
+#divthree {
+    margin-left: 700px;
+    background-color: rgb(0,159,50);
+    width: 225px;
+    margin-top: -350px;
+    text-align: center;
+    height: 350px;
+}
+#divfour {
+    background-color: rgb(0,191,84);
+    margin-left: 925px;
+    width: 225px;
+    margin-top: -350px;
+    text-align: center;
+    height: 350px;
+}
+#divfive {
+    margin-left: 250px;
+    margin-right: 60px;
+    background-color: rgb(0,191,84);
+    width: 225px;
+    margin-top: -20px;
+    text-align: center;
+    height: 350px;
+} 
+#divsix {
+    background-color: rgb(0,159,50);
+    margin-left: 475px;
+    width: 225px;
+    margin-top: -350px;
+    text-align: center;
+    height: 350px;
+}
+#divseven {
+    margin-left: 700px;
+    background-color: rgb(0,174,71);
+    width: 225px;
+    margin-top: -350px;
+    text-align: center;
+    height: 350px;
+}
+#diveight {
+    background-color: rgb(0,159,50);
+    margin-left: 925px;
+    width: 225px;
+    margin-top: -350px;
+    text-align: center;
+    height: 350px;
+}
+h3 {
+    margin-top: 20px;
+    padding-left: -12px;
+    font-family: sans-serif;
+    font-size: 20px;
+    color: white;
+}

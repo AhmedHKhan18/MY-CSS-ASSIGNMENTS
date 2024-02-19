@@ -1,0 +1,48 @@
+h1 {
+    font-family: sans-serif;
+    font-weight: bold;
+    color: rgb(64,112,244);
+    margin: 2%;
+    text-decoration: underline;
+}
+h4 {
+    margin: 2%;
+    color: white;
+    
+    text-align: center;
+}
+.big {
+    background-color: #101010;
+    margin-top: 350px;
+    width: 100vw;
+    /* margin-left: -8px; */
+    height: 22vh;
+}
+.small {
+    background-color: black;
+    margin-top: -27px;
+    width: 100vw;
+    /* margin-left: -8px; */
+    height: 7.5vh;
+}
+* {
+    margin: 0;
+    margin-bottom: 0px;
+}
+h3 {
+    color: white;
+    text-align: center;
+    padding-top: 30px;
+    word-spacing: 50px;
+}
+.facebook {
+    height: 50px;
+    padding-left: 520px;
+    padding-top: 20px;
+    border-radius: 50px;
+}
+.insta {
+    height: 50px;
+    padding-left: 25px;
+    border-radius: 1000px 500px;
+}

@@ -1,0 +1,52 @@
+h1 {
+    color: rgb(10, 192, 10);
+    margin-top: 100px;
+    margin-left: 200px;
+    font-family: sans-serif;
+}
+hr {
+    width: 1000px;
+    margin-top: -15px;
+    border: 1px solid rgb(10, 192, 10);
+}
+#first {
+    background-color: rgb(10, 192, 10);
+    width: 300px;
+    margin-left: 200px;
+    margin-top: 50px;
+    height: 450px;
+}
+#second {
+    background-color: rgb(4, 163, 4);
+    width: 300px;
+    margin-left: 500px;
+    position: relative;
+    top: -450px;
+    height: 450px;
+}
+#third {
+    background-color: rgb(10, 192, 10);
+    width: 300px;
+    margin-left: 800px;
+    margin-top: -900px;
+    height: 450px;
+}
+#first img {
+    height: 200px;
+    border-radius: 105px;
+    margin-top: 100px;
+} 
+#second img {
+    height: 200px;
+    border-radius: 105px;
+    margin-top: 100px;
+}
+#third img {
+    height: 200px;
+    border-radius: 105px;
+    margin-top: 100px;
+}
+h2 {
+    color: white;
+    font-family: sans-serif;
+}   

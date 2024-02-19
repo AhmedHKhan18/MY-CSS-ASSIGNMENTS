@@ -1,0 +1,243 @@
+.alldivs {
+    display: flex;
+}
+.one {
+    /* background-color: white; */
+    width: 20vw;
+    height: 100vh;
+    display: flex;
+    border: 0.1px solid rgb(206, 196, 196);
+}
+.two {
+    /* background-color: blue; */
+    width: 60vw;
+    height: 100vh;
+    border: 0.1px solid rgb(206, 196, 196);
+}
+.three {
+    /* background-color: yellow; */
+    width: 20vw;
+    height: 100vh;
+}
+* {
+    margin: 0px;
+}
+.instagram {
+    height: 10vh;
+    width: 10vw;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.home {
+    height: 5vh;
+    width: 3vw;
+    /* margin-left: -150px;
+    margin-top: 100px; */
+}
+.Hom {
+    /* margin-top: 107px; */
+    font-family: sans-serif;
+    font-weight: bold;
+}
+.Searc {
+    /* margin-top: 155px; */
+    font-family: sans-serif;
+    font-weight: lighter;
+    /* margin-left: 5px; */
+}
+.search {
+    height: 4vh;
+    width: 2vw;
+    /* margin-left: -90px;
+    margin-top: 150px; */
+}
+.Explore {
+    height: 4vh;
+    width: 2vw;
+    /* margin-left: -90px;
+    margin-top: 200px; */
+}
+.Exp {
+    /* margin-top: 203px; */
+    font-family: sans-serif;
+    font-weight: lighter;
+    /* margin-left: 5px; */
+}
+.Reels {
+    height: 4.8vh;
+    width: 2.8vw;
+    /* margin-left: -100px;
+    margin-top: 250px; */
+}
+.Reel {
+    /* margin-top: 255px; */
+    font-family: sans-serif;
+    font-weight: lighter;
+    /* margin-left: -1px; */
+}
+.Messages {
+    height: 4vh;
+    width: 2vw;
+    /* margin-left: -90px;
+    margin-top: 300px; */
+}
+.Messag {
+    /* margin-top: 303px; */
+    font-family: sans-serif;
+    font-weight: lighter;
+    /* margin-left: 8px; */
+}
+table {
+    margin-top: 100px;
+    margin-left: -150px;
+}
+tr {
+    text-align: start;
+    /* display: flex; */
+    /* justify-content: space-between; */
+    height: -1px;
+}
+td {
+    position: relative;
+}
+.Noti {
+    /* margin-top: 107px; */
+    font-family: sans-serif;
+    font-weight: lighter;
+}
+.Notifications {
+    height: 4vh;
+    width: 2vw;
+}
+.Creat {
+    font-family: sans-serif;
+    font-weight: lighter;
+}
+.Create {
+    height: 4vh;
+    width: 2vw;
+}
+.Prof {
+    font-family: sans-serif;
+    font-weight: lighter;
+}
+.Profile {
+    height: 4vh;
+    width: 2vw;
+    border-radius: 100px;
+}
+.my {
+    border-radius: 100px;
+    height: 10vh;
+    width: 5vw;
+    margin-left: 50px;
+    margin-top: 20px;
+    border: 3px solid purple;
+}
+.stories {
+    display: flex;
+}
+h4 {
+    margin-top: 100px;
+    margin-left: -80px;
+    font-family: sans-serif;
+}
+.post {
+    height: 100vh;
+    width: 40vw;
+    margin-top: 50px;
+    margin-left: 110px;
+}
+.mypic {
+    border-radius: 100px;
+    position: absolute;
+    margin-top: 70px;
+    height: 7vh;
+    width: 3.5vw;
+    margin-left: -540px;
+    border: 3px solid rgb(143,34,130);
+}
+.mypost {
+    margin-top: 130px;
+    position: absolute;
+    height: 73vh;
+    width: 38vw;
+    margin-left: -535px;
+    border: 1px solid rgb(197, 187, 187);
+}
+.ahmed {
+    border-radius: 100px;
+    height: 5vh;
+    width: 2.5vw;
+}
+.divthreetable {
+    margin-left: 10px;
+    margin-top: 15px;
+}
+.centre {
+    width: 30vw;
+}
+h3 {
+    font-family: sans-serif;
+    font-weight: lighter;
+}
+.swit {
+    color: blue;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+.foryou {
+    margin-top: 50px;
+    font-weight: lighter;
+    font-family: sans-serif;
+    color: grey;
+}
+.see {
+    margin-left: 210px;
+    margin-top: -23px;
+    font-family: sans-serif;
+}
+.babar {
+    border-radius: 100px;
+    height: 5vh;
+    width: 2.5vw;
+}
+.billgate {
+    border-radius: 100px;
+    height: 5vh;
+    width: 2.5vw;
+}
+.pakw {
+    border-radius: 100px;
+    height: 5vh;
+    width: 2.5vw;
+}
+.cronaldo {
+    border-radius: 100px;
+    height: 5vh;
+    width: 2.5vw;
+}
+.secondtable {
+    margin-left: 10px;
+    margin-top: 30px;
+}
+.sectd {
+    width: 30vw;
+    height: 8vh;
+}
+.lastline {
+    color: grey;
+    font-family: sans-serif;
+    font-weight: lighter;
+    font-size: 14px;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.date {
+    margin-top: 20px;
+    font-family: sans-serif;
+    font-weight: lighter;
+    font-size: 14px;
+    color: grey;
+    margin-left: 10px;
+}

@@ -1,0 +1,76 @@
+.navbar-container {
+    background-color: rgb(0,141,56);
+    color: white;
+    font-family: sans-serif;
+    font-weight: bold;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+* {
+    margin: 0;
+}
+h2 {
+    padding-left: 150px;
+    padding-top: 15px;
+}
+.row {
+    padding-right: 150px;
+    border-spacing: 20px;
+}
+h1 {
+    padding: 40px 200px;
+    font-size: 50px;
+    font-weight: bold;
+    font-family: sans-serif;
+    color: rgb(0,174,71);
+}
+hr {
+    color: rgb(132,209,166);
+    border: 3px solid rgb(132,209,166);
+    width: 1000px;
+    margin-left: 200px;
+    margin-top: -30px;
+}
+p {
+    font-size: 25px;
+    font-family: sans-serif;
+    text-align: center;
+    margin-top: 50px;
+    color: rgb(0,174,71);
+}
+.images {
+    width: 50px;
+    display: inline;
+    padding-left: 270px;
+    word-spacing: 100px;
+}
+img {
+    height: 200px;
+    padding-top: 20px;
+}
+#paraone {
+    margin-left: -600px;
+    margin-top: 20px;
+}
+#paratwo {
+    margin-left: 30px;
+    margin-top: -55px;
+}
+#parathree {
+    margin-left: 600px;
+    margin-top: -55px;
+}
+.imagestwo {
+    margin-left: 450px;
+    margin-top: 70px;
+    word-spacing: 100px;
+}
+#parafour {
+    margin-left: -250px;
+    margin-top: 20px;
+}
+#parafive {
+    margin-left: 350px;
+    margin-top: -55px;
+}
